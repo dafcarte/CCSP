@@ -10,6 +10,11 @@ Note: Type 2 Virtualization :)
 Free Local Application Container Host/Repository:
 https://www.docker.com/
 
+Application Containers and Automated Tasks using Docker-Compose:
+https://github.com/docker/compose
+
+Example of Docker-Compose include in this repo as "docker-compose.yml", just install docker-compose and run "docker-compose up" in the same directory as that file.
+
 Infrastructure As Code:
 https://www.terraform.io/
 
@@ -18,4 +23,6 @@ https://learn.hashicorp.com/tutorials/terraform/aws-build
 
 Application Container Orchestration:
 https://kubernetes.io/
+
+
 
